@@ -4,15 +4,6 @@
 - Hello, I'm Guilherme Rigobello and I'm a frontend developer. 
 - This place is the space where I integrate my projects in order to attract people.
 
-<br>
-
-
-- 💼 Place for job offers: <a href="https://www.linkedin.com/in/guilherme-rigobello-565333253/" target="_blank">here!<a>
-
-- 💬 where you can talk to me: <a href="https://www.instagram.com/guilhermerigobello/" target="_blank">here too!<a>
-
-<br>
-
 
   
   <h3>Specializations:<h3>
