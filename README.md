@@ -13,8 +13,6 @@
 - <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript-logo">
 
 
-<br>
-
 - <h4>Languages Percentage<h4>
 
 [![Top Langs Guilherme](https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Rigobello)](https://github.com/anuraghazra/github-readme-stats)
