@@ -3,10 +3,9 @@
 
 - Hello, I'm Guilherme Rigobello and I'm a frontend developer. 
 - This place is the space where I integrate my projects in order to attract people.
-  <br>
 
 
-  
+<br>
   <h3>Specializations:<h3>
 
 - <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo">
