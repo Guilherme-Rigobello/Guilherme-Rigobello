@@ -3,6 +3,7 @@
 
 - Hello, I'm Guilherme Rigobello and I'm a frontend developer. 
 - This place is the space where I integrate my projects in order to attract people.
+  <br>
 
 
   
@@ -12,6 +13,7 @@
 - <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3-logo">
 - <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript-logo">
 
+<br>
 
 - <h4>Languages Percentage<h4>
 
