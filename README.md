@@ -1,19 +1,21 @@
 ### Hi there 👋
 
 
-- Hello, I'm Guilherme Rigobello. 
-- This place is the space where I integrate my projects in order to attract people.
+- Hello, I'm Guilherme Rigobello and I'm from São Paulo, Brasil. 
+- This place is the space where I integrate my projects.
 
 ***
 
  ### Specializations: 
 
-- ![HTML](https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white)
-- ![CSS](https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white)
-- ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=white)
-- ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white)
-- ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white)
-- ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+
 
 
 
