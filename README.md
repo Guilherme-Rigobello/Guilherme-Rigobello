@@ -2,9 +2,10 @@
 
 
 - Hello, I'm Guilherme Rigobello and I'm from São Paulo, Brasil. 
-- This place is the space where I integrate my projects.
 
 ***
+
+![Guilherme GitHub Stats](https://github-readme-stats.vercel.app/api?username=Guilherme-Rigobello&show_icons=true&theme=dark)
 
  ### Specializations: 
 
@@ -21,7 +22,7 @@
 
 ***
 
-- <h4>Languages Percentage<h4>
+<h3>Languages Percentage<h4>
 
 ![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Rigobello&layout=compact&theme=dracula)
 
