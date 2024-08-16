@@ -18,6 +18,6 @@
 ![](	https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ***
 
-## Currently working on: [🌿 EcoLeaf](https://github.com/Guilherme-Rigobello/EcoLeaf)
+### Currently working on: [🌿 EcoLeaf](https://github.com/Guilherme-Rigobello/EcoLeaf)
 
 
