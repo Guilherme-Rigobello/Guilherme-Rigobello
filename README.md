@@ -19,6 +19,6 @@
 ![](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ***
 
-### Currently working on: [EcoLeaf](https://github.com/Guilherme-Rigobello/EcoLeaf).
+### Currently working on: [EcoLeaf](https://github.com/vbzt/EcoLeaf).
 
 
