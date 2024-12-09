@@ -29,9 +29,11 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&color=333333)
 
 
-
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Rigobello&layout=compact&theme=dracula)
 
 ### 🗣 Get in touch:
 
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red&color=333333)](mailto:dev.rigobello@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=333333)](https://www.linkedin.com/in/SEUUSERNAME/)
+
+
