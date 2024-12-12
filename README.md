@@ -2,7 +2,6 @@
 ### `👋 Greetings !!!`
 ####  `--> I'm Guilherme Rigobello, I'm 16 years old and I study at Fiap School <-- `
 
-
  ### 👨‍💻 Skills: 
 
 
@@ -28,11 +27,7 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&color=333333)
 
 ### 📊 My Stats:
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Rigobello&layout=compact&theme=dracula)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Rigobello&layout=donut&theme=omni)
 
-### 🗣 Get in touch:
-
-[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red&color=333333)](mailto:dev.rigobello@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=333333)](https://www.linkedin.com/in/SEUUSERNAME/)
 
 
