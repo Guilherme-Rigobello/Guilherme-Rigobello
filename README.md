@@ -27,7 +27,9 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&color=1f1f1f)
 
 ### 📊 My Stats:
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Rigobello&layout=donut&theme=omni)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Rigobello&layout=donut&theme=omni&bg_color=1f1f1f&border_color=2f2f2f)
+
+
 
 
 
