@@ -1,6 +1,6 @@
 
 ### `👋 Greetings !!!`
-####  `--> I'm Guilherme Rigobello, I'm 16 years old and I study at Fiap School <-- `
+####  `--> I'm Guilherme Rigobello, I'm 16 years old and I study at Fiap <-- `
 
  ### 👨‍💻 Skills: 
 
