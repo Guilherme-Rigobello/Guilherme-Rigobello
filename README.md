@@ -26,7 +26,7 @@
 
 ### 💻 Learning:
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54&color=1f1f1f)
+![TypeScript](https://img.shields.io/badge/typescript-1f1f1f?style=for-the-badge&logo=typescript&logoColor=007ACC)
 ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC&color=1f1f1f)
 
 
