@@ -1,6 +1,6 @@
 
-# 💬 Greetings !!!
-###  `❕ I'm Guilherme Rigobello, I'm 16 years old and I study at Fiap ❕`
+# 💬 Greetings !
+  `I'm Guilherme Rigobello. I try to improve every day by practicing a lot --- "There is not free lunch"`
 
  ### 👨‍💻 Skills: 
 
