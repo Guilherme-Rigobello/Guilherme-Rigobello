@@ -1,6 +1,6 @@
 
-# 💬 Greetings !
-  `I'm Guilherme Rigobello. I try to improve every day by practicing a lot --- "There is not free lunch"`
+# 🖐 Greetings !!!
+  `>> What's Up? My name is Guilherme Rigobello and I'm sixteen years old. Currently studying at FIAP School.`
 
  ### 👨‍💻 Skills: 
 
