@@ -1,5 +1,5 @@
 
-# 🖐🏻 Greetings !!!
+# 🖐🏼 Greetings !!!
   `>> What's Up? My name is Guilherme Rigobello and I'm sixteen years old. Currently studying at FIAP School.`
 
  ### 👨‍💻 Skills: 
