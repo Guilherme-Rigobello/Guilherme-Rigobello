@@ -1,5 +1,5 @@
 ### `  console.log(about)  `
-  `>> What's Up? My name is Guilherme Rigobello and I'm seventeen years old. Currently studying at FIAP School.`
+  `>> What's Up? My name is Guilherme Rigobello and I'm seventeen years old. Currently studying Data Science at FIAP.`
 
  ### 👨‍💻 Skills: 
 
