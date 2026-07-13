@@ -42,5 +42,4 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"  width="28" />  
 </div>
 
-### 📊 My Stats:
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Rigobello&layout=compact&theme=transparent&bg_border_color=2f2f2f&cache_seconds=600)
+
